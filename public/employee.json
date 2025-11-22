@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Ravindra Kumar",
+        "email": "ravindra@example.com",
+        "designation": "Frontend Developer",
+        "department": "Engineering",
+        "joiningDate": "2020-01-15"
+    },
+    {
+        "id": 2,
+        "name": "Ankit Sharma",
+        "email": "ankit@example.com",
+        "designation": "Backend Developer",
+        "department": "Engineering",
+        "joiningDate": "2021-04-10"
+    },
+    {
+        "id": 3,
+        "name": "Priya Patel",
+        "email": "priya@example.com",
+        "designation": "UI/UX Designer",
+        "department": "Design",
+        "joiningDate": "2022-07-22"
+    }
+]
